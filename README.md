@@ -1,2 +1,2 @@
 # SiteMyResume
-Site do meu currículo de habilidades e experiência. 06/24
+Site de currículo de habilidades e experiência. 06/24
