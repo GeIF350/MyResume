@@ -1,0 +1,32 @@
+/* Reset CSS */
+.page {
+    margin: 200px;
+    margin-top: 0;
+}
+
+section {
+    background-color: white;
+}
+
+header h1 {
+   text-align: center;
+   font-size: 55px;
+   font-weight: bold;
+   color: #2c3b57;
+}
+
+header h2 {
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight:150;
+}
+
+.perfil {
+    
+}
+
+.perfil img{
+    width: 211px;
+    height: 211px;
+    border-radius: 50%;
+}
