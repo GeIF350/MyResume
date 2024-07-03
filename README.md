@@ -1,2 +1,2 @@
 # SiteMyResume
-Site de currículo de habilidades e experiências online. 06/24
+Site de currículo online. 06/24
