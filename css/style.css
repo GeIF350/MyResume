@@ -12,7 +12,7 @@ header {
     padding: 29px;
 }
 
-header h1 {
+.cabeca-parte1 h1 {
    text-align: center;
    font-size: 65px;
    font-weight: bold;
@@ -49,10 +49,6 @@ header h2 {
 
 .cabeca-parte1 h1 {
     padding-bottom: 10px;
-}
-
-.cabeca-parte1 h2 {
-    margin-top: 0px;
 }
 
 .perfil {
