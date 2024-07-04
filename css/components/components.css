@@ -70,11 +70,16 @@ header {
 
 main {
     grid-area: main;
+    .linha2 {
+        width: 95%;
+        height: 3px;
+        background-color: #2c3b57;
+    }
 }
 
 aside {
     grid-area: aside;
-    background-color: antiquewhite;
+    background-color: #d9e3f4;
 }
 
 footer {
