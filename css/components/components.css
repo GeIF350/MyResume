@@ -1,7 +1,7 @@
 .container {
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    grid-template-rows: 230px 80px 700px 400px 90px;
+    grid-template-rows: 230px 80px 700px 400px 95px;
     grid-template-areas: 
                         "header header header header"
                         "info info info info"
@@ -36,7 +36,7 @@ header {
 .nome {
     justify-content: center;
     text-align: center;
-    width: 600px;
+    width: 820px;
 }
 
 .nome h1{
@@ -74,7 +74,25 @@ header {
     background-color: #cadee5;
 }
 
+h4,h3 {
+    padding-left: 15px;
+    font-size: 18px;
+}
+
+p {
+    font-size: 19px;
+    padding-left: 30px;
+}
+
+ul {
+    font-size: 19px;
+}
+
 main {
+    h2 {
+        padding-top: 30px;
+        padding-left: 15px;
+    }
     grid-area: main;
     .linha2 {
         width: 95%;
@@ -84,6 +102,10 @@ main {
 }
 
 aside {
+    h2 {
+        padding-top: 30px;
+        padding-left: 15px;
+    }
     grid-area: aside;
     background-color: #d9e3f4;
 }
